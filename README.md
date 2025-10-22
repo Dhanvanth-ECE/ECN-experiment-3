@@ -24,7 +24,8 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 CIRCUIT DIAGRAM :
 
- 
+ <img width="558" height="376" alt="image" src="https://github.com/user-attachments/assets/51460d90-4a56-434e-9117-cc8101958ac1" />
+
 
 
 
@@ -52,6 +53,7 @@ PROCEDURE:
 TABULAR COLUMN:
 
  
+<img width="529" height="408" alt="image" src="https://github.com/user-attachments/assets/1d8da439-ee86-4b3d-93ad-0ae84ebfd7a4" />
 
 
 
@@ -61,9 +63,13 @@ TABULAR COLUMN:
 
 CALCULATION: 
 
- 
+ <img width="638" height="705" alt="image" src="https://github.com/user-attachments/assets/f185527b-2543-4f14-b12c-80385d719e40" />
+<img width="640" height="605" alt="image" src="https://github.com/user-attachments/assets/74349189-8b6b-4f45-a264-55f423d0ab2a" />
+
  
 MARKS SPLIT UP :
+
+<img width="746" height="436" alt="image" src="https://github.com/user-attachments/assets/50feb645-b3a6-48dd-8b62-091970a86b19" />
  
 
 RESULT:
